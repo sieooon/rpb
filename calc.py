@@ -18,3 +18,6 @@ def divide(x, y):
         return None
     else:
         return x / y
+        
+if __name__ =="__main__":
+    main()
